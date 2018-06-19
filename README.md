@@ -1,5 +1,7 @@
 # Generating Reviews and Discovering Sentiment
 
+**For the sake of simplicity, we should run the code with Python 3.6** (Hoang Cuong - June 18)
+
 Code for [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444) (Alec Radford, Rafal Jozefowicz, Ilya Sutskever).
 
 Right now the code supports using the language model as a feature extractor.
